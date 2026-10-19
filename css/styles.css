@@ -31,3 +31,8 @@ nav a {
 nav a:hover {
     text-decoration: underline;
 }
+
+nav a {
+    color: #ffffff;
+    background-color: #333333;
+}
